@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EncurtaLink.iml" filepath="$PROJECT_DIR$/.idea/EncurtaLink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encurtador-de-links/url-curtas.iml" filepath="$PROJECT_DIR$/Encurtador-de-links/url-curtas.iml" />
+    </modules>
+  </component>
+</project>
